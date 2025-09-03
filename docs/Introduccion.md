@@ -5,13 +5,13 @@
 ---
 
 ``` codigo
-![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+![Diagrama del sistema](recursos/imgs/avatar.jpeg)
 
 <!-- Control de tamaño usando HTML (cuando se requiera) -->
 <img src="../recursos/imgs/avatar.jpeg" alt="Diagrama del sistema" width="420">
 ```
 
-![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+![Diagrama del sistema](recursos/imgs/avatar.jpeg)
 
 <img src="../recursos/imgs/avatar.jpeg" alt="Diagrama del sistema" width="420">
 
