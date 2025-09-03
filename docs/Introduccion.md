@@ -5,5 +5,7 @@
 Soy Ana Paula y tengo 18 años. Soy estudiante de ingeniería mecatrónica 
 
 Información de contacto: 
+
 Email: anapaulamendozalinares@gmail.com
+
 Correo institucional: 203339@iberopuebla.mx
