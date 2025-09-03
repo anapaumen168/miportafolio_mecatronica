@@ -2,7 +2,9 @@
 
 ¡Hola! En este apartado puedes encontrar información sobre mi por si quieres conocerme mejor. 
 
-Soy Ana Paula y tengo 18 años. Soy estudiante de ingeniería mecatrónica 
+---
+
+Soy Ana Paula y tengo 18 años. Soy estudiante de ingeniería mecatrónica en la IBERO Puebla
 
 Información de contacto: 
 
