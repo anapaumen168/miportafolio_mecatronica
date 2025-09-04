@@ -4,7 +4,6 @@
 
 ---
 
-![Diagrama del sistema](../imagenes/avatar.jpeg)
 
 <img src="../imagenes/avatar.jpg" alt="Diagrama del sistema" width="420">
 
