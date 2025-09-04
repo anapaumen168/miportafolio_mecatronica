@@ -6,9 +6,11 @@
 
 ``` codigo
 
-![Diagrama del sistema](../recursos/imgs/avatar.jpeg)
+![Diagrama del sistema](../imagenes/avatar.jpeg)
 
-<img src="../recursos/imgs/avatar.jpeg" alt="Diagrama del sistema" width="420">
+![Diagrama del sistema](../imagenes/avatar.jpg)
+
+<img src="../imagenes/avatar.jpg" alt="Diagrama del sistema" width="420">
 
 ---
 
