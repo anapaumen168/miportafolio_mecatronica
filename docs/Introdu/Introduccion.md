@@ -4,11 +4,7 @@
 
 ---
 
-``` codigo
-
 ![Diagrama del sistema](../imagenes/avatar.jpeg)
-
-![Diagrama del sistema](../imagenes/avatar.jpg)
 
 <img src="../imagenes/avatar.jpg" alt="Diagrama del sistema" width="420">
 
