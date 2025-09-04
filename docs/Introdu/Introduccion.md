@@ -13,7 +13,7 @@
 
 ![Diagrama del sistema](recursos/imgs/avatar.jpeg)
 
-<img src="../recursos/imgs/avatar.jpeg" alt="Diagrama del sistema" width="420">
+<img src="../docs/recursos/imgs/avatar.jpeg" alt="Diagrama del sistema" width="420">
 
 ---
 
