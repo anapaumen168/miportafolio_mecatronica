@@ -1,7 +1,5 @@
 # Sobre mí
 
-¡Hola! En este apartado puedes encontrar información sobre mi por si quieres conocerme mejor. 
-
 ---
 
 <img src="../imagenes/avatar2.jpg" alt="Diagrama del sistema" width="420">
