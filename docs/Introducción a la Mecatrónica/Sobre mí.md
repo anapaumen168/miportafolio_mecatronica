@@ -1,4 +1,4 @@
-# Introducción
+# Sobre mí
 
 ¡Hola! En este apartado puedes encontrar información sobre mi por si quieres conocerme mejor. 
 
