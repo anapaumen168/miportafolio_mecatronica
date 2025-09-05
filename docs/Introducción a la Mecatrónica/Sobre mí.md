@@ -5,11 +5,11 @@
 ---
 
 
-<img src="../imagenes/avatar.jpg" alt="Diagrama del sistema" width="420">
+<img src="../imagenes/avatar2.jpg" alt="Diagrama del sistema" width="420">
 
 ---
 
-Soy Ana Paula y tengo 18 años. Soy estudiante de ingeniería mecatrónica en la IBERO Puebla
+Soy Ana Paula, tengo 18 años y soy estudiante de ingeniería mecatrónica en la IBERO Puebla.
 
 Información de contacto: 
 
