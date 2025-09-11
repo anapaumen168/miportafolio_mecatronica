@@ -1,7 +1,7 @@
 # Semana 2
 
 ---
-### Pieza en Solidworks
+### Pieza en SolidWorks
 
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Capturadepantalla(1.2).png" alt="Diagrama del sistema" width="400">
 
