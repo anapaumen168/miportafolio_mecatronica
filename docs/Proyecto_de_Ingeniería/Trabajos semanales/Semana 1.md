@@ -2,7 +2,7 @@
 
 [Descargar especificación (PDF)](../imagenes/SyllabusProyectosIngenieria.pdf)
 
-<embed src="imagenes/SyllabusProyectosIngenieria.pdf" type="application/pdf" width="100%" height="600">
+<embed src="docs/Proyecto_de_Ingeniería/imagenes/SyllabusProyectosIngenieria.pdf" type="application/pdf" width="100%" height="600">
 
   <p>No se pudo mostrar el PDF. <a href="../imagenes/SyllabusProyectosIngenieria.pdf">Descargar</a></p>
 </object>
