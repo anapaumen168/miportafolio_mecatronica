@@ -6,6 +6,6 @@ https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%
 
 | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierracirculardemesa.jpeg) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierrasytaladro.jpeg) |
 |---------------------------|--------------------------|
-| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierra.2.jpeg) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Capturadepantalla1.png) |
+| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierra.2.jpeg) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpeg) |
 
 
