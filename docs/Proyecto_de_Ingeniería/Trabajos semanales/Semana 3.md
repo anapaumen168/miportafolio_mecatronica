@@ -4,3 +4,5 @@ Esta semana visitamos el taller en el Idit para conocer diferentes maquinas para
 
 https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierracirculardemesa.jpeg
 
+<img src="../imagenes/sierracirculardemesa.jpeg" alt="Diagrama del sistema" width="420">
+
