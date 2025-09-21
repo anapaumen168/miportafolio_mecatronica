@@ -29,8 +29,7 @@ theme:
   highlightjs: true 
   palette:
       - scheme: default
-        primary: darkblue
-
+        primary: electricblue
   features:
     - content.code.copy
     - content.tooltips
