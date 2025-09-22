@@ -9,10 +9,17 @@ Primero usamos diferentes máquinas para cortar la tabla de madera y generar ped
 Después, con ayuda de la sierra cinta, le dimos forma a las piezas cortando los bordes. 
 
 ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierrasytaladro.jpeg)
-|---------------------------|--------------------------|
-| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierra.2.jpeg) |![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpeg) |
-|---------------------------|--------------------------|
-| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/otracortadorademetal.jpeg) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/cortadorademetal.jpeg) |
-|---------------------------|--------------------------|
+
+Luego, colocamos las piezas en el soporte y, con la segueta, realizamos una ranura para poder embonarlas.
+
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierra.2.jpeg) 
+
+Este fue nuestro resultado final: 
+
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpeg) |
+
+También aprendimos a utilizar la la sierra de corte y la sierra de cinta para metal.
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/otracortadorademetal.jpeg) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/cortadorademetal.jpeg) |
+
 
 
