@@ -1,0 +1,11 @@
+### Ejercicio 5 en SolidWorks
+
+| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/ejercicio5solidworks.png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/ejercicio5vistadesdearriba.png) |
+|---------------------------|--------------------------|
+| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/ejercicio5vistafrontal.png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/ejercicio5vistageneral.png) |
+
+---
+
+### Archivo
+
+<p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/docs/Proyecto_de_Ingenier%C3%ADa/imagenes/Ejercicio2SolidWorks.SLDPRT" target="_blank">📥 Descargar </a></p>
