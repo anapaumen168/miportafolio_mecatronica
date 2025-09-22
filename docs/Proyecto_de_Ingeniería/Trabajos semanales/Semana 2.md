@@ -1,7 +1,7 @@
 # Semana 2
 
 ---
-### Pieza en SolidWorks
+### Ejercicio 1 en SolidWorks
 
 | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Capturadepantalla(1.2).png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Capturadepantalla(1.3).png) |
 |---------------------------|--------------------------|
