@@ -16,10 +16,12 @@ Luego, colocamos las piezas en el soporte y, con la segueta, realizamos una ranu
 
 Este fue nuestro resultado final: 
 
-![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpeg) |
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpeg)
 
 También aprendimos a utilizar la la sierra de corte y la sierra de cinta para metal.
-![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/otracortadorademetal.jpeg) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/cortadorademetal.jpeg) |
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/otracortadorademetal.jpeg) 
+
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/cortadorademetal.jpeg)
 
 
 
