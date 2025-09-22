@@ -1,7 +1,7 @@
 # Semana 3
 --- 
 Esta semana visitamos el taller en el Idit para conocer diferentes maquinas para cortar madera y para soldar. Utilizamos diferentes tipos de sierras para la elaboración de un soporte de teléfono.
----
+
 
 Primero usamos diferentes máquinas para cortar la tabla de madera y generar pedazos individuales. Una máquina que usamos fue la sierra circular de mesa: 
 
