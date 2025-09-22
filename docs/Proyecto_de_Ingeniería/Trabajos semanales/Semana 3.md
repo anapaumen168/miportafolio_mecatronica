@@ -4,9 +4,9 @@ Esta semana visitamos el taller en el Idit para conocer diferentes maquinas para
 
 
 Primero usamos diferentes máquinas para cortar la tabla de madera y generar peddazos individuales. Una máquina que usamos fue la sierra circular de mesa.
+| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierracirculardemesa.jpeg) |
 
-https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierracirculardemesa.jpeg 
-
+Después, con ayuda de la sierra cinta, le dimos forma a las piezas cortando los bordes. 
 
 | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/sierrasytaladro.jpeg) |
 |---------------------------|--------------------------|
