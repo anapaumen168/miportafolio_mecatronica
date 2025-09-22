@@ -8,4 +8,4 @@
 
 ### Archivo
 
-<p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/docs/Proyecto_de_Ingenier%C3%ADa/imagenes/Ejercicio2SolidWorks.SLDPRT" target="_blank">📥 Descargar </a></p>
+<p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Ejercicio5SolidWorks.SLDPRT" target="_blank">📥 Descargar </a></p>
