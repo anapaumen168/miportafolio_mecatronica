@@ -1,6 +1,3 @@
-## Semana 4
-
----
 ### Ejercicio 2 en SolidWorks
 
 | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/vistageneral1.2.png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/vistageneral.2.png) |
@@ -11,4 +8,4 @@
 
 ### Archivo
 
-<p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/pieza%20de%20proyectos%201.SLDPRT" target="_blank">📥 Descargar </a></p>
+<p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/docs/Proyecto_de_Ingenier%C3%ADa/imagenes/Ejercicio2SolidWorks.SLDPRT" target="_blank">📥 Descargar </a></p>
