@@ -1,8 +1,8 @@
 ### Maceta 1
 
-| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/ejercicio5solidworks.png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/ejercicio5vistadesdearriba.png) |
+| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/maceta1vistadesdeabajo.png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/maceta1vistadesdearriba.png) |
 |---------------------------|--------------------------|
-| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/ejercicio5vistafrontal.png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/ejercicio5vistageneral.png) |
+| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/maceta1vistafrontal.png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/maceta1vistageneral.png) |
 
 ---
 
