@@ -3,7 +3,7 @@
 ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/dise%C3%B1ostitch.png)
 
 | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/calcado%20de%20stitch.png) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/preview%20de%20dxf.png) |
-
+|---------------------------|--------------------------|
 
 ### Archivo dxf para grabado
 
