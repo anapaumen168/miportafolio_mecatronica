@@ -29,12 +29,12 @@ https://www.digikey.com.mx/es/resources/conversion-calculators/conversion-calcul
 Materiales utilizados:
 1 × NE555 (DIP-8)
 1 × LED
-1 × Resistor para LED (330 Ω o 470 Ω)
-2 × Resistores temporizadores (ver diseño)
-1 × Capacitor de temporización (ver diseño)
-1 × Capacitor 10 nF para pin 5 (CTRL) → estabilidad
-Protoboard, cables, fuente 5 V regulada
+1 × Resistor para LED (330 Ω)
+2 × Resistores temporizadores 
+1 × Capacitor de temporización 
+1 × Capacitor 10 nF 
 
+Después de armar el cricuito, se conectó al osciloscopio para observar el parpadeo del led de manera gráfica a través de una señal cuadrada. Con esto se comprobó el funcionamiento correcto del circuito. 
 
 <video width="600" controls>
   <source src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/Video%20de%20WhatsApp%202025-10-16%20a%20las%2019.17.37_16eaf117.mp4" type="video/mp4">
