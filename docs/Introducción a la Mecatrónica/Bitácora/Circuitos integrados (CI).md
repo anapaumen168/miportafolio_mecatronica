@@ -30,6 +30,7 @@ Se utilizó el modo astable para generar el parpadeo de un led. Con ayuda de una
 
 
 Materiales utilizados:
+
 - 1 × NE555 (DIP-8)
 - 1 × LED
 - 1 × Resistor para LED (330 Ω)
