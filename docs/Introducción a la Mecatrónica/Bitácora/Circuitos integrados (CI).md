@@ -24,7 +24,7 @@ El 555 genera un solo pulso de duración fija al recibir un disparo externo. Des
 El 555 actúa como interruptor: cambia de estado con cada señal de disparo. Permanece en ese estado hasta recibir otra señal.
 
 ### Actividad:
-Se utilizó el modo astable para generar el parpadeo de un led. Con ayuda de una calculadora en línea se determinaron los valores de las resistencias y capacitores para lograr el encendido y apagado automático de un led aproximadamente cada 4 segundos.
+Se empleó el modo astable del temporizador 555 para generar el parpadeo cíclico de un LED. Con ayuda de una calculadora en línea se determinaron los valores de las resistencias y capacitores para lograr el encendido y apagado automático de un led aproximadamente cada 4 segundos.
 
 [Calculadora para temporizador 555](https://www.digikey.com.mx/es/resources/conversion-calculators/conversion-calculator-555-timer?srsltid=AfmBOopbM2F4kBKWD8n8-fVGb5gEoQxKXo3YCXbVUPw4arBwxIQpEXOX)
 
