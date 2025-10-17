@@ -8,7 +8,7 @@ Un microcontrolador procesa los datos que recibe a través de sus periféricos d
 
 El primer acercamiento a los microcontroladores fue a través de la tarjeta ESP32: Un microcontrolador potente con conectividad Wi-Fi y Bluetooth.
 
-#### - Programación
+#### Programación
 
 Para escribir, compilar y cargar programas al microcontrolador, se utiliza un IDE (Integrated Development Environment). Es un software que reúne en un solo lugar todas las herramientas necesarias para programar.
 
