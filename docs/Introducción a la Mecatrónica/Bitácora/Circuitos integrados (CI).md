@@ -1,10 +1,10 @@
 # Circuitos integrados
 
-### Definición:
+### *Definición*:
 Un circuito integrado (IC) es un pequeño chip que contiene componentes electrónicos (como transistores y resistencias) interconectados para realizar una función específica.
 Se usa para simplificar la implementación de los circuitos electrónicos en dispositivos como computadoras, celulares y controladores.
 
-### Funcionamiento:
+### *Funcionamiento*:
 El primer acercamiento que se tuvo a los circuitos integrados fue a través del temporizador 555: Un IC que permite crear temporizadores y osciladores con dos comparadores, un flip-flop SR y un transistor de descarga. 
 
 ![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/diagrama555.jpg)
@@ -17,10 +17,10 @@ El IC 555 opera en tres modos que permiten distintas funciones:
 - #### Astable:
 El 555 genera un ciclo continuo de encendido y apagado. No necesita señal externa para dispararse; siempre cambia de estado solo.
 
-- Monostable (pulso único):
+- #### Monostable (pulso único):
 El 555 genera un solo pulso de duración fija al recibir un disparo externo. Después del pulso, vuelve a su estado estable.
 
-- Biestable (flip-flop):
+- #### Biestable (flip-flop):
 El 555 actúa como interruptor: cambia de estado con cada señal de disparo. Permanece en ese estado hasta recibir otra señal.
 
 ### Actividad:
