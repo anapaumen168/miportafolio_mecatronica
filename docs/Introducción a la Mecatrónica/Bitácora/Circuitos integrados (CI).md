@@ -5,7 +5,8 @@ Se usa para simplificar la implementación de los circuitos electrónicos en dis
 
 El primer acercamiento que se tuvo a los circuitos integrados fue a través del temporizador 555: Un IC que permite crear temporizadores y osciladores con dos comparadores, un flip-flop SR y un transistor de descarga. 
 
-//diagrama
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/diagrama555.jpg)
+
 
 Para entender el funcionamiento de este temporizador se construyó un oscilador que permitiera el encendido y apagado automático de un led cada 4 segundos.
 
@@ -15,14 +16,15 @@ Astable:
 El 555 genera un ciclo continuo de encendido y apagado. No necesita señal externa para dispararse; siempre cambia de estado solo.
 
 Monostable (pulso único):
-
 El 555 genera un solo pulso de duración fija al recibir un disparo externo. Después del pulso, vuelve a su estado estable.
 
 Biestable (flip-flop):
-
 El 555 actúa como interruptor: cambia de estado con cada señal de disparo. Permanece en ese estado hasta recibir otra señal.
 
 Se utilizó el modo astable para generar el parpadeo de un led. Con ayuda de una calculadora en línea se determinaron los valores de las resistencias y capacitores para lograr el encendido y apagado automático de un led aproximadamente cada 4 segundos.
+
+[Calculadora para temporizador 555](https://www.digikey.com.mx/es/resources/conversion-calculators/conversion-calculator-555-timer?srsltid=AfmBOopbM2F4kBKWD8n8-fVGb5gEoQxKXo3YCXbVUPw4arBwxIQpEXOX)
+
 
 https://www.digikey.com.mx/es/resources/conversion-calculators/conversion-calculator-555-timer?srsltid=AfmBOopbM2F4kBKWD8n8-fVGb5gEoQxKXo3YCXbVUPw4arBwxIQpEXOX
 
