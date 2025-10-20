@@ -34,7 +34,6 @@ void loop() {
 
 ## Resultados
 
- ![]
  <video width="600" controls>
   <source src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/Video%20de%20WhatsApp%202025-10-19%20a%20las%2018.14.20_1a95dd57.mp4" type="video/mp4">
   Tu navegador no soporta videos HTML5.
