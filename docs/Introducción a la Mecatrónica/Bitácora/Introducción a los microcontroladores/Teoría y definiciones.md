@@ -10,4 +10,4 @@ Para escribir, compilar y cargar programas a los microcontroladores, se utiliza 
 
 Para las actividades en clase se utilizó Arduino IDE y el MCU ESP32:
 
-![]https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/esp32_devkitC_v4_pinlayout.png
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/esp32_devkitC_v4_pinlayout.png)
