@@ -28,3 +28,8 @@ void loop() {
  ![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/button_blink_wiring.png)
 
 ### Resultados:
+
+<video width="600" controls>
+  <source src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/Video%20de%20WhatsApp%202025-10-19%20a%20las%2019.17.18_cb6d9bcd.mp4" type="video/mp4">
+  Tu navegador no soporta videos HTML5.
+</video>
