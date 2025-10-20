@@ -8,12 +8,12 @@ Un actuador es un dispositivo que convierte una señal eléctrica en movimiento 
 
 En las actividades anteriores, el actuador fue un LED; en esta actividad se utilizó un motor, que convierte la energía eléctrica en movimiento rotatorio. El PWM regula su velocidad controlando la cantidad de energía que recibe, mientras que el Puente H permite cambiar la dirección del giro al invertir la dirección de la corriente.
 
-![]https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/puente_h_sinvel.png
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/puente_h_sinvel.png)
 
 *Código*
 
 ```codigo
-/*Control de 1 solo motor*/
+/*Control de 1 solo) motor*/
 #define in1 27
 #define in2 14
 #define pwm 12 //Definicion de pin de Velocidad
