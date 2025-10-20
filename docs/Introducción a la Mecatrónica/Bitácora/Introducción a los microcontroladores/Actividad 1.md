@@ -30,5 +30,4 @@ void loop() {
 }
 ```
 
-
 ## Resultados
