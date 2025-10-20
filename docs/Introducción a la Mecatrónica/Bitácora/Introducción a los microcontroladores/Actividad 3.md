@@ -1,39 +1,35 @@
 # Actividad 3
 
-## Led con Bluetooth
 
-De igual forma, se programó el encendido y apagado de un LED mediante comunicación Bluetooth, permitiendo controlar su estado de forma inalámbrica desde un dispositivo externo.
+## Parpadeo con Botón
 
+De igual forma, se programó el parpadeo de un LED en función del estado de un botón, el cual, según su posición, permite o interrumpe el paso de corriente.
+
+### Código: 
 
 ```codigo
-#include "BluetoothSerial.h"
-BluetoothSerial SerialBT;
-
+//Revisar donde esta cableado el botón y el LED
 #define LED 23
+#define BUTTON 33
 
 void setup() {
-    Serial.begin(115200);
-    SerialBT.begin("ESP32");
     pinMode(LED, OUTPUT);
+    pinMode(BUTTON, INPUT);
 }
 
 void loop() {
-    if (SerialBT.available()) {
-        String mensaje = SerialBT.readString();
-        Serial.println("Recibido: " + mensaje);
-        if (mensaje == "ON") {
-            digitalWrite(LED, HIGH);
-        } else if (mensaje == "OFF") {
-            digitalWrite(LED, LOW);
-        }
+    if (digitalRead(BUTTON) == HIGH) {
+        digitalWrite(LED, HIGH);
+    } else {
+        digitalWrite(LED, LOW);
     }
-    delay(1000);
 }
 ```
+ ![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/button_blink_wiring.png)
 
-### Resultados: 
+### Resultados:
 
 <video width="600" controls>
-  <source src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/Video%20de%20WhatsApp%202025-10-19%20a%20las%2018.27.54_b188989b.mp4" type="video/mp4">
+  <source src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/Video%20de%20WhatsApp%202025-10-19%20a%20las%2019.17.18_cb6d9bcd.mp4" type="video/mp4">
   Tu navegador no soporta videos HTML5.
 </video>

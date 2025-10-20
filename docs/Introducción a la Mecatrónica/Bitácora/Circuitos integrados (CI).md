@@ -1,4 +1,5 @@
-# Circuitos integrados
+### Circuitos integrados
+
 
 ### *Definición*:
 Un circuito integrado (IC) es un pequeño chip que contiene componentes electrónicos (como transistores y resistencias) interconectados para realizar una función específica.
