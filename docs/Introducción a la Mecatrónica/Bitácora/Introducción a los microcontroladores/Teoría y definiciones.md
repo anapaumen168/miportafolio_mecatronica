@@ -1,10 +1,10 @@
-# Introduccion a los microcontroladores 
+# Teoría y definiciones
 
 ### Definición
 
 Un microcontrolador procesa los datos que recibe a través de sus puertos de entrada y salida para llevar a cabo una función específica de un dispositivo. Usa el código archivado en su memoria y procesador interno para interpretar la información y ejecutar la acción correspondiente.
 
-#### Programación
+### Programación
 
 Para escribir, compilar y cargar programas a los microcontroladores, se utiliza un IDE (Integrated Development Environment). Es un software que reúne en un solo lugar todas las herramientas necesarias para crear un código y cargarlo a un MCU.
 
