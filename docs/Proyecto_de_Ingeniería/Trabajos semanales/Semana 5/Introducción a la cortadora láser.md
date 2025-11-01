@@ -1,12 +1,12 @@
 # Introducción a la cortadora láser
-
 Esta semana recibimos una introducción teórica y práctica a la cortadora láser. 
 
-## Principios de seguridad y funcionamiento de la máquina.
+---
+### Funcionamiento de la máquina:
 
 El corte láser funciona a través de una luz que se enfoca en la superficie del material derritiendolo o vaporizandolo por completo cortando el material. La profundidad y el estilo de los cortes lo determinan una serie de instrucciones con vectores, velocidades y potencias generadas a través del dibujo computarizado CAD (Computer Assisted Design).
 
-Para utilizar la máquina de corte láser es necesario: 
+### Medidas de seguridad: 
 
 - Botas de seguridad
 - Bata de algodón
