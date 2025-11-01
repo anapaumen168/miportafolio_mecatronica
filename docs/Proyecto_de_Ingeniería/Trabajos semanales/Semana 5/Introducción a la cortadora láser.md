@@ -8,8 +8,7 @@ El corte láser funciona a través de una luz que se enfoca en la superficie del
 
 ### Medidas de seguridad
 
-<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-11-01%20142245.png" width="300" align="right">
-
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-11-01%20142245.png" width="325" align="right">
 
 - Botas de seguridad
 - Bata de algodón
