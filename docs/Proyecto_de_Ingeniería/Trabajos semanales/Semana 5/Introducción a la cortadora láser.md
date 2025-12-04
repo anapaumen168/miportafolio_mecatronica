@@ -19,5 +19,5 @@ El corte láser funciona a través de una luz que se enfoca en la superficie del
 
 
 | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/IMG-20251101-WA0010.jpg) Para cortar en láser es necesario un software específico que permite insertar el archivo y establecer a que velocidad o potencia deben ser cortadas o grabadas las partes selccionadas. | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/IMG-20251101-WA0009.jpg) Este es un ejemplo de cortes con diferentes velocidades y potencias. |
-|---------------------------|--------------------------|
+
 
