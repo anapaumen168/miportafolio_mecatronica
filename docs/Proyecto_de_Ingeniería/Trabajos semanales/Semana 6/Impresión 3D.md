@@ -22,4 +22,6 @@ Al momento de colocar las piezas en Cura, software para impresión 3D, coloqué 
 
 Resultado final: 
 
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpg)
+
 Como parte de la tarea de la semana 7, realicé el curso de fabricación digital en IDIT Academy. 
