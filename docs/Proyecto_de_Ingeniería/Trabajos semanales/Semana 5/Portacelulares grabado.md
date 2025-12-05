@@ -4,6 +4,7 @@ Para poner en práctica los distintos ajustes de la cortadora láser, se realiz�
 
 Este fue el resultado final: 
 
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-12-04%20233500.png)
 
 Después de realizar diversos trabajos con esta máquina, se lograron determinar los valores adecuados de potencia y velocidad necesarios tanto para el grabado como para el corte:
 
