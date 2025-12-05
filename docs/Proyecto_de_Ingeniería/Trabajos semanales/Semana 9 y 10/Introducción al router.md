@@ -6,6 +6,8 @@ También aprendí la importancia de las puntas del router CNC, ya que influyen d
 
 En clase se nos explicó el proceso para diseñar un molde de manera adecuada, asegurando que fuera funcional y que pudiera cortarse correctamente con el router CNC.
 
-### Archivo
 
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-12-05%20030336.png)
+
+### Archivo
 <p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Imagen%20de%20WhatsApp%202025-12-05%20a%20las%2001.58.32_3b9e0043.jpg" target="_blank">📥 Descargar </a></p>
