@@ -10,3 +10,5 @@ Para este proyecto diseñé un tocador. Comencé realizando la plantilla en Soli
 Para este proyecto utilicé madera balsa, por lo que fue necesario adaptar las medidas de las ranuras conforme a las propiedades del material. Por ejemplo, el grosor de las ranuras se ajustó a 6 mm para asegurar un ensamblaje correcto. De la misma manera, este material influyó en la configuración de la máquina láser, ya que, al ser delgado, no fue necesaria una potencia alta.
 
 Después de este proceso, este fue el resultado final: 
+
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-11-01%20142245.png" width="325" align="right">
