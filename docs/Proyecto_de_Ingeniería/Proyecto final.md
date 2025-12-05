@@ -33,3 +33,7 @@ Para la elaboración del muñeco, utilicé la IA Gemini para agregarle un casco 
 ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/catapulta.jpg)
 
 ![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/escaneoddecara.jpg)
+
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/mu%C3%B1eco.jpg)
+
+
