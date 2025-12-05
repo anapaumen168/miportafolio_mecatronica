@@ -15,10 +15,9 @@ Después diseñé la figura y las patas por separado en SolidWorks para ensambla
 
 Al momento de colocar las piezas en Cura, software para impresión 3D, coloqué las patas acostadas para reducir la cantidad soportes necesarios debido a la pata ensamblada. 
 
-![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/a4fc9e555f94783838cf5d0a06228e7b.jpg)
+![](hhttps://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%20(147).png)
 
-![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/a4fc9e555f94783838cf5d0a06228e7b.jpg)
-(fotocura)(videoimpresion)
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/videoimpresion.mp4)
 
 Resultado final: 
 
