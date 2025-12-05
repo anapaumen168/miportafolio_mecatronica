@@ -1,0 +1,3 @@
+# Impresión 3D
+
+La impresión 3D es un proceso de fabricación aditiva que permite crear objetos tridimensionales a partir de un diseño digital, depositando material capa por capa. Se considera un tipo de máquina CNC porque trabaja de forma automatizada mediante instrucciones programadas, y normalmente utiliza tres ejes de movimiento: X, Y y Z, que permiten el desplazamiento horizontal, vertical y de profundidad durante la fabricación de la pieza.
