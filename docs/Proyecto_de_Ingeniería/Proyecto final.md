@@ -28,3 +28,8 @@ Para el arma medieval, cortamos las piezas de madera en el router CNC y, inspira
 
 Para la elaboración del muñeco, utilicé la IA Gemini para agregarle un casco medieval a una fotografía de mi rostro. Posteriormente, ingresé esta imagen en Tripo para convertirla en un archivo STL y poder imprimirla en 3D. Además, calqué el cuerpo de un soldado medieval en SolidWorks para después cortarlo en la cortadora láser.
 
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/carasenimpresora.jpg)
+
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/catapulta.jpg)
+
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/escaneoddecara.jpg)
