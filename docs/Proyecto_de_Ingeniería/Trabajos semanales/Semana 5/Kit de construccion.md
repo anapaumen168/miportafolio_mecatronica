@@ -11,4 +11,4 @@ Para este proyecto utilicé madera balsa, por lo que fue necesario adaptar las m
 
 Después de este proceso, este fue el resultado final: 
 
-<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-11-01%20142245.png" width="325" align="right">
+![](https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/tocador.jpeg)
