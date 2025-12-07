@@ -17,11 +17,11 @@ Al momento de colocar las piezas en Cura, software para impresión 3D, coloqué 
 
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%20(147).png" alt="Diagrama del sistema" width="200" class="center">
 
-<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/videoimpresion.mp4" alt="Diagrama del sistema" width="200" class="center">
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/videoimpresion.mp4" alt="Diagrama del sistema" width="400" class="center">
 
 
 Resultado final: 
 
-<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpg" alt="Diagrama del sistema" width="200" class="center">
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpg" alt="Diagrama del sistema" width="400" class="center">
 
 Como parte de la tarea de la semana 7, realicé el curso de fabricación digital en IDIT Academy. 
