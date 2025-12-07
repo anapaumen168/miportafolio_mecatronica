@@ -13,3 +13,6 @@ Después de este proceso, este fue el resultado final:
 
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/tocador.jpeg" alt="Diagrama del sistema" width="400" class="center">
 
+### Archivo 
+<p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Tocador.zip" target="_blank">📥 Descargar </a></p>
+
