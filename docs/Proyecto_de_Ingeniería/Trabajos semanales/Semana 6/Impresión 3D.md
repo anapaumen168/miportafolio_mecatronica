@@ -17,7 +17,11 @@ Al momento de colocar las piezas en Cura, software para impresión 3D, coloqué 
 
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%20(147).png" alt="Diagrama del sistema" width="200" class="center">
 
-<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/videoimpresion.mp4" alt="Diagrama del sistema" width="400" class="center">
+<video width="600" controls>
+  <source src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/videoimpresion.mp4" type="video/mp4">
+  Tu navegador no soporta videos HTML5.
+</video>
+
 
 ### Archivo 
 <p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Tortuga.zip" target="_blank">📥 Descargar </a></p>

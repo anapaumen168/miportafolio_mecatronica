@@ -8,3 +8,4 @@ Para profundizar en el tema de la impresión 3D, en esta ocasión, en lugar de d
 
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-12-07%20004127.png" alt="Diagrama del sistema" width="400" class="center">
 
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/evidenciasnoopy.jpg" alt="Diagrama del sistema" width="400" class="center">
