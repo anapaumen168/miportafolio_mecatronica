@@ -6,9 +6,12 @@ También aprendí la importancia de las puntas del router CNC, ya que influyen d
 
 En clase se nos explicó el proceso para diseñar un molde de manera adecuada, asegurando que fuera funcional y que pudiera cortarse correctamente con el router CNC.
 
+Para aprender a utilizar el router CNC, diseñamos en SolidWorks un molde para fabricar una figura de resina, el cual debía ser cortado posteriormente utilizando la misma máquina.
 
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-12-05%20030336.png" alt="Diagrama del sistema" width="400" class="center">
 
 
 ### Archivo
 <p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Imagen%20de%20WhatsApp%202025-12-05%20a%20las%2001.58.32_3b9e0043.jpg" target="_blank">📥 Descargar </a></p>
+
+Con el mismo propósito, diseñamos una tabla de madera que fue grabada utilizando el router CNC.
