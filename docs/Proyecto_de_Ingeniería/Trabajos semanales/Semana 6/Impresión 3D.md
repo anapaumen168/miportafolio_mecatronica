@@ -28,3 +28,5 @@ Resultado final:
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/resultadofinal.jpg" alt="Diagrama del sistema" width="400" class="center">
 
 Como parte de la tarea de la semana 7, realicé el curso de fabricación digital en IDIT Academy. 
+
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/Captura%20de%20pantalla%202025-12-06%20233021.png" alt="Diagrama del sistema" width="400" class="center">

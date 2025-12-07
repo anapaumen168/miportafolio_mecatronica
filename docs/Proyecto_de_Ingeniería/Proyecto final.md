@@ -37,3 +37,9 @@ Para la elaboración del muñeco, utilicé la IA Gemini para agregarle un casco 
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/mu%C3%B1eco.jpg" alt="Diagrama del sistema" width="400" class="center">
 
 
+### Archivos
+<p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/soldadocalcado2.SLDPRT" target="_blank">📥 Soldado calcado </a></p>
+
+<p><a href="https://anapaumen168.github.io/miportafolio_mecatronica/Proyecto_de_Ingenier%C3%ADa/imagenes/caraanapau.blend" target="_blank">📥 Archivo Blender </a></p>
+
+
