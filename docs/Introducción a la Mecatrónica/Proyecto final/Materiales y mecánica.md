@@ -10,6 +10,9 @@ Como proyecto final se desarrolló una plataforma móvil capaz de centrar y mant
 La estructura principal del proyecto está compuesta por dos tablas de MDF de 40 × 40 cm. La primera funciona como base estructural, donde se fijan los motores lineales y los componentes electrónicos. La segunda tabla corresponde a la plataforma superior, sobre la cual se coloca la pelota. Ambas tablas proporcionan rigidez y estabilidad al sistema.
 
 ---
+
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/motores.jpg" width="325" align="right">
+
 ## 4x motores lineales con 10 cm de carrera
 
 Se utilizaron cuatro motores lineales con una carrera de 10 cm, uno en cada esquina de la plataforma. Estos motores se eligieron debido a que su movimiento lineal directo facilita el control de la inclinación en comparación con servomotores, ya que no requieren mecanismos adicionales para transformar el movimiento rotacional en lineal. Al extenderse o retraerse de forma independiente, los motores generan cambios de altura en cada esquina, permitiendo inclinar la plataforma en cualquier dirección.
