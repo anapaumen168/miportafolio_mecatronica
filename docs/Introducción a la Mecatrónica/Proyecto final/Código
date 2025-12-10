@@ -27,4 +27,6 @@
  
  Cálculo del Error:Determina el error de posición: la distancia en píxeles entre la posición actual de la pelota y el punto central deseado.
  
- Algoritmo PID:Procesa el error de $X$ y $Y$ usando las ganancias ($K_p, K_d, K_i$) para generar dos señales de corrección: $Output_x$ y $Output_y$.Estas salidas indican la magnitud y dirección de la fuerza requerida para mover la pelota al centro.Generación de Comandos para Motores:Las salidas $Output_x$ y $Output_y$ se combinan matemáticamente para producir las cuatro velocidades motoras ($m1, m2, m3, m4$). La fórmula asegura que la inclinación resultante mueva la pelota en la dirección necesaria.Transmisión: Los cuatro valores de velocidad se formatean como una cadena de texto (ejemplo: "150,-80,120,0\n") y se envían al microcontrolador a través de la comunicación serial.
+ Algoritmo PID:Procesa el error de $X$ y $Y$ usando las ganancias ($K_p, K_d, K_i$) para generar dos señales de corrección: $Output_x$ y $Output_y$.Estas salidas indican la magnitud y dirección de la fuerza requerida para mover la pelota al centro.
+ 
+ Generación de Comandos para Motores:Las salidas $Output_x$ y $Output_y$ se combinan matemáticamente para producir las cuatro velocidades motoras ($m1, m2, m3, m4$). La fórmula asegura que la inclinación resultante mueva la pelota en la dirección necesaria.Transmisión: Los cuatro valores de velocidad se formatean como una cadena de texto (ejemplo: "150,-80,120,0\n") y se envían al microcontrolador a través de la comunicación serial.

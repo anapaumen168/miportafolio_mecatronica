@@ -1,5 +1,6 @@
+# Código en Python
 
-
+Este código se encarga de la detección visual de la pelota y determina cuanto y como deben moverse los motores. Procesa la información visual de la pelota y calcula las órdenes de movimiento exactas que la plataforma necesita para mantener el equilibrio.
 
 ```codigo
 

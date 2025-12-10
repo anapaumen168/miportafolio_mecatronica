@@ -1,5 +1,7 @@
 ## Código en Arduino
 
+Este código se carga en el microcontrolador (que está conectado a los drivers de los motores) y actúa como el ejecutor físico de las órdenes de Python.
+
 ```codigo
 
 #include "BluetoothSerial.h"  
