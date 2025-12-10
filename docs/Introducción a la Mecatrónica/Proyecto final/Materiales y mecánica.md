@@ -2,6 +2,8 @@
 
 Como proyecto final se desarrolló una plataforma móvil capaz de centrar y mantener una pelota en equilibrio mediante el uso de servomotores o motores lineales. El sistema responde automáticamente a los desplazamientos de la pelota, integrando conocimientos de electrónica, programación y mecánica para el desarrollo de un sistema de control funcional.
 
+| ![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/fotogeneral.jpg) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/fotogeneral2.jpg) |
+|---------------------------|--------------------------|
 ---
 ## 2x tablas de mdf de 40x40cm
 
