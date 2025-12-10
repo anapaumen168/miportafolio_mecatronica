@@ -33,3 +33,8 @@ Para fijar adecuadamente los motores a la estructura se diseñaron e imprimieron
 
 Entre la plataforma superior y los actuadores se colocaron cuatro soportes de articulación para la plataforma, uno en cada esquina. Estos soportes cuentan con un cilindro con una esfera en la parte superior que permite el giro y la rotación. Gracias a este diseño, la plataforma puede inclinarse libremente sin generar esfuerzos mecánicos innecesarios ni bloqueos en el movimiento.
 
+<video width="600" controls>
+  <source src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/videoplataforma.mp4">
+  Tu navegador no soporta videos HTML5.
+</video>
+
