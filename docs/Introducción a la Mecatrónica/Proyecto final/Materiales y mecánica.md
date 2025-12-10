@@ -4,7 +4,7 @@ Como proyecto final se desarrolló una plataforma móvil capaz de centrar y mant
 
 | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/fotogeneral.jpg) | ![](https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/fotogeneral2.jpg) |
 |---------------------------|--------------------------|
----
+
 ## 2x tablas de mdf de 40x40cm
 
 La estructura principal del proyecto está compuesta por dos tablas de MDF de 40 × 40 cm. La primera funciona como base estructural, donde se fijan los motores lineales y los componentes electrónicos. La segunda tabla corresponde a la plataforma superior, sobre la cual se coloca la pelota. Ambas tablas proporcionan rigidez y estabilidad al sistema.
