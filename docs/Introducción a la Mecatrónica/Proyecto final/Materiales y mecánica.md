@@ -21,7 +21,10 @@ Se utilizaron cuatro motores lineales con una carrera de 10 cm, uno en cada esqu
 
 Para fijar adecuadamente los motores a la estructura se diseñaron e imprimieron en 3D cuatro soportes especiales para motores lineales, desarrollados en SolidWorks. Estos soportes garantizan una correcta alineación de los actuadores y permiten que el movimiento se transmita de forma precisa a la plataforma.
 
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/Captura%20de%20pantalla%202025-12-09%20203329.png" alt="Diagrama del sistema" width="400" class="center">
 ---
 ## 4x soportes para la plataforma.
 
 Entre la plataforma superior y los actuadores se colocaron cuatro soportes de articulación para la plataforma, uno en cada esquina. Estos soportes cuentan con un cilindro con una esfera en la parte superior que permite el giro y la rotación. Gracias a este diseño, la plataforma puede inclinarse libremente sin generar esfuerzos mecánicos innecesarios ni bloqueos en el movimiento.
+
+<img src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/Captura%20de%20pantalla%202025-12-09%20201616.png" alt="Diagrama del sistema" width="400" class="center">
