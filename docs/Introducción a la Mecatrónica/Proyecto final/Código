@@ -1,0 +1,30 @@
+## Códigos en Python y Arduino
+
+ Código de Python 
+ 
+ Este código se encarga de la detección visual de la pelota y determina cuanto y como deben moverse los motores. Procesa la información visual de la pelota y calcula las órdenes de movimiento exactas que la plataforma necesita para mantener el equilibrio.
+ 
+ 1. Preparación del Entorno
+ Entrada de Datos: Se inicializa OpenCV (cv2) para tomar video de la cámara. Se configuran rangos de color HSV específicos para identificar la pelota roja en cualquier tono.
+
+ Conexión Serial: Se establece la comunicación a través del puerto COM (serial) con el microcontrolador (ESP32/Arduino) usando la librería serial. Este es el canal físico para enviar las órdenes a los motores.
+
+ Ajuste Fino: Se crea una interfaz gráfica con deslizadores que permiten al operador ajustar en tiempo real el PID.
+
+ 
+ 2. Calibración Inicial
+ Antes de iniciar el control de equilibrio de la pelota, se ejecuta por 15 segundos una calibración de los motores enviando una velocidad base constante a los cuatro motores.
+
+ Función: Este paso asegura que la plataforma descienda y se estabilice en una posición inicial conocida, garantizando un punto de partida consistente para el sistema de control.
+ 
+ 3. Bucle de Control en Tiempo Real
+ 
+ Detección:Captura un frame de la cámara.
+ 
+ Aísla la pelota roja usando las máscaras HSV predefinidas.
+ 
+ Calcula la posición central de la pelota ($x, y$) y el centro de la imagen (punto objetivo).
+ 
+ Cálculo del Error:Determina el error de posición: la distancia en píxeles entre la posición actual de la pelota y el punto central deseado.
+ 
+ Algoritmo PID:Procesa el error de $X$ y $Y$ usando las ganancias ($K_p, K_d, K_i$) para generar dos señales de corrección: $Output_x$ y $Output_y$.Estas salidas indican la magnitud y dirección de la fuerza requerida para mover la pelota al centro.Generación de Comandos para Motores:Las salidas $Output_x$ y $Output_y$ se combinan matemáticamente para producir las cuatro velocidades motoras ($m1, m2, m3, m4$). La fórmula asegura que la inclinación resultante mueva la pelota en la dirección necesaria.Transmisión: Los cuatro valores de velocidad se formatean como una cadena de texto (ejemplo: "150,-80,120,0\n") y se envían al microcontrolador a través de la comunicación serial.
