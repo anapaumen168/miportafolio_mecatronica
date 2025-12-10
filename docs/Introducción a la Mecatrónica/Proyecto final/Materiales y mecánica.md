@@ -18,6 +18,11 @@ Se utilizaron cuatro motores lineales con una carrera de 10 cm, uno en cada esqu
 
 ---
 
+
+
+
+
+
 <img src="https://anapaumen168.github.io/miportafolio_mecatronica/Introducci%C3%B3n%20a%20la%20Mecatr%C3%B3nica/imagenes/Captura%20de%20pantalla%202025-12-09%20203329.png" alt="Diagrama del sistema" width="400" align="left">
 
 ## 4x soportes para motores lineales impresos en 3D y diseñados en SolidWorks
